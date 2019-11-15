@@ -1,0 +1,14 @@
+ .box {
+     width: 500px;
+     height: 500px;
+     margin: 0 auto;
+ }
+
+ .box>div {
+     width: 300px;
+     background-color: skyblue;
+ }
+
+ body {
+     background-color: pink;
+ }
